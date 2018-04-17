@@ -28,7 +28,7 @@ regressor.fit(X_train, y_train)
 # Predicting y based on x_test
 y_pred = regressor.predict(X_test)
 
-# Visulising regreesion
+# Visulising linear regression
 # Red points for training points
 # Green points for testing points
 # Blue line for regression model
