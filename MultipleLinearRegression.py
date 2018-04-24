@@ -1,4 +1,10 @@
-# Multiple Linear Regression
+"""
+Authour @ kartiksach
+Platform @ Kartik's Macbook Air
+
+This file conatins the Multiple Linear Regression code 
+as covered in Machine Learning A-Z
+"""
 
 # Importing the libraries
 import numpy as np
