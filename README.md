@@ -1,6 +1,6 @@
-# Machine-Learning-A-Z
-Udemy Course
+This project aims at studying Machine Learning using python in the following sequence : 
 
-This is a project to study machine learning which has a course under Machine Learning A-Z
-
-Course undergone by : Kartik Sachdeva 
+1. Preprocessing
+2. Linear Regression
+3. Multiple Linear Regression
+4. Polynomial Regression
