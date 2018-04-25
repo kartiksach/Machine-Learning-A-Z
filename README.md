@@ -5,3 +5,4 @@ This project aims at studying Machine Learning using python in the following seq
 3. Multiple Linear Regression
 4. Polynomial Regression
 5. Decision Tree Regression
+6. Random Forest Regression
