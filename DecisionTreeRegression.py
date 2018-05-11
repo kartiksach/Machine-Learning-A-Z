@@ -1,5 +1,5 @@
 """
-Authour @ kartiksach
+Author @ kartiksach
 Platform @ Kartik's Macbook Air
 
 This file contains the entire Decision tree regression code
