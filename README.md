@@ -7,3 +7,4 @@ This project aims at studying Machine Learning using python in the following seq
 5. Decision Tree Regression
 6. Random Forest Regression
 7. Logistic Regression Classification
+8. KNN Classification
