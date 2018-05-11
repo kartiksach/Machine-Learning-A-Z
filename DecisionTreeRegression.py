@@ -2,7 +2,7 @@
 Authour @ kartiksach
 Platform @ Kartik's Macbook Air
 
-This file conatins the entire Decision tree regression code
+This file contains the entire Decision tree regression code
 as covered in Machine Learning A-Z
 """
 

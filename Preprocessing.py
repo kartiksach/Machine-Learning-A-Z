@@ -2,7 +2,7 @@
 Authour @ kartiksach
 Platform @ Kartik's Macbook Air
 
-This file conatins the entire data pre-prepocessing code 
+This file contains the entire data pre-prepocessing code 
 as covered in Machine Learning A-Z
 """
 
