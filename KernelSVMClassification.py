@@ -2,7 +2,7 @@
 Author @ kartiksach
 Platform @ Kartik's Macbook Air
 
-This file contains the entire KNN Classification regression code
+This file contains the entire Kernel SVM Classification regression code
 as covered in Machine Learning A-Z
 """
 
