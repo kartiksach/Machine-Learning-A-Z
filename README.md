@@ -10,3 +10,4 @@ This project aims at studying Machine Learning using python in the following seq
 8. KNN Classification
 9. SVC Classification
 10. Kernel SVM Classification
+11. Naive Bayes Classififcation
