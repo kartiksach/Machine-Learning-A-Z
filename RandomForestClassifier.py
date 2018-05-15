@@ -2,7 +2,7 @@
 Author @ kartiksach
 Platform @ Kartik's Macbook Air
 
-This file contains the entire Decision Tree Classification regression code
+This file contains the entire Random Forest Classification regression code
 as covered in Machine Learning A-Z
 """
 
