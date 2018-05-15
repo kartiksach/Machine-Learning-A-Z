@@ -13,3 +13,4 @@ This project aims at studying Machine Learning using python in the following seq
 11. Naive Bayes Classififcation
 12. Decision Tree Classification
 13. Random Forest Classification
+14. K-Means Classification
