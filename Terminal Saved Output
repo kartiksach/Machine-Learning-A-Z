@@ -1,0 +1,121 @@
+Kartiks-MacBook-Air:Machine-Learning-A-Z kartik$ python KMeansClustering.py
+Traceback (most recent call last):
+  File "KMeansClustering.py", line 43, in <module>
+    plt.scatter(kmeans.cluster_centers_[:, 0], kmeans.cluster.cluster_centers_[:, 1], color = 'yellow', s = 300, label = 'Centroid')
+AttributeError: 'KMeans' object has no attribute 'cluster'
+Kartiks-MacBook-Air:Machine-Learning-A-Z kartik$ clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kartiks-MacBook-Air:Machine-Learning-A-Z kartik$ python KMeansClustering.py
+Traceback (most recent call last):
+  File "KMeansClustering.py", line 43, in <module>
+    plt.scatter(kmeans.cluster_centers_[:, 0], kmeans.cluster_cluster_centers_[:, 1], color = 'yellow', s = 300, label = 'Centroid')
+AttributeError: 'KMeans' object has no attribute 'cluster_cluster_centers_'
+Kartiks-MacBook-Air:Machine-Learning-A-Z kartik$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

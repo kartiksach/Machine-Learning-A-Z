@@ -2,7 +2,7 @@
 Author @ kartiksach
 Platform @ Kartik's Macbook Air
 
-This file contains the entire Decision tree regression code
+This file contains the entire SVC Classification code
 as covered in Machine Learning A-Z
 """
 

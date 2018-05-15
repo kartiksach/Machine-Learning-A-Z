@@ -2,7 +2,7 @@
 Author @ kartiksach
 Platform @ Kartik's Macbook Air
 
-This file contains the entire Random Forest Classification regression code
+This file contains the entire Random Forest Classification code
 as covered in Machine Learning A-Z
 """
 

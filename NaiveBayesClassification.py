@@ -2,7 +2,7 @@
 Author @ kartiksach
 Platform @ Kartik's Macbook Air
 
-This file contains the entire Naive Bayes Classification regression code
+This file contains the entire Naive Bayes Classification code
 as covered in Machine Learning A-Z
 """
 
