@@ -14,3 +14,4 @@ This project aims at studying Machine Learning using python in the following seq
 12. Decision Tree Classification
 13. Random Forest Classification
 14. K-Means Classification
+15. Heirarchical Clustering
